@@ -1,0 +1,7 @@
+pdfplumber==0.10.2
+pytesseract==0.3.10
+pdf2image==1.16.3
+Pillow==10.2.0
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+unicodedata2==15.1.0

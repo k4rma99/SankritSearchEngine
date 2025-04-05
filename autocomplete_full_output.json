@@ -1,0 +1,1167 @@
+[
+  {
+    "prefix": "परु",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 60
+      }
+    ]
+  },
+  {
+    "prefix": "परे॑ह",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 48
+      }
+    ]
+  },
+  {
+    "prefix": "परे॒त॑ं",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 278
+      }
+    ]
+  },
+  {
+    "prefix": "पर॒मां",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 291
+      }
+    ]
+  },
+  {
+    "prefix": "पर॒मं",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 482
+      }
+    ]
+  },
+  {
+    "prefix": "पर॑",
+    "children": [
+      "त"
+    ],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 438
+      },
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 678
+      },
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 694
+      },
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 813
+      }
+    ]
+  },
+  {
+    "prefix": "पर॑तासीक॒थं",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 733
+      }
+    ]
+  },
+  {
+    "prefix": "परा॒चैः",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 729
+      }
+    ]
+  },
+  {
+    "prefix": "परा॒कात्",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 770
+      },
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 793
+      }
+    ]
+  },
+  {
+    "prefix": "पातक्",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 62
+      }
+    ]
+  },
+  {
+    "prefix": "पाननेपऊपाीपसवे।",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 249
+      }
+    ]
+  },
+  {
+    "prefix": "पाननेपिवपपऽेपिूयेपदलायताि।",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 263
+      }
+    ]
+  },
+  {
+    "prefix": "पाष",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 592
+      }
+    ]
+  },
+  {
+    "prefix": "पावमानीः।",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1110
+      }
+    ]
+  },
+  {
+    "prefix": "पावमानीःशतािनषट्",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1282
+      }
+    ]
+  },
+  {
+    "prefix": "पावमाःपनु",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1136
+      }
+    ]
+  },
+  {
+    "prefix": "पापे",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1200
+      }
+    ]
+  },
+  {
+    "prefix": "पापं",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1236
+      }
+    ]
+  },
+  {
+    "prefix": "पारगाः",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1278
+      }
+    ]
+  },
+  {
+    "prefix": "पा॑लये",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 351
+      }
+    ]
+  },
+  {
+    "prefix": "पा॑सन॒था",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 364
+      }
+    ]
+  },
+  {
+    "prefix": "पाशमभी॑ितम॒ु",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 424
+      }
+    ]
+  },
+  {
+    "prefix": "पा॒",
+    "children": [
+      "प"
+    ],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 427
+      }
+    ]
+  },
+  {
+    "prefix": "पा॒पमा॒॑यः",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 648
+      }
+    ]
+  },
+  {
+    "prefix": "पा॒पीः",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 836
+      }
+    ]
+  },
+  {
+    "prefix": "पिेतांपवणा",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 140
+      }
+    ]
+  },
+  {
+    "prefix": "पिूभ",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 768
+      }
+    ]
+  },
+  {
+    "prefix": "पिन",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 349
+      }
+    ]
+  },
+  {
+    "prefix": "पित॑त॒व१॒॑मा",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 458
+      }
+    ]
+  },
+  {
+    "prefix": "पित॒ं",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 614
+      }
+    ]
+  },
+  {
+    "prefix": "पशनू",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 191
+      }
+    ]
+  },
+  {
+    "prefix": "पश॑",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 563
+      }
+    ]
+  },
+  {
+    "prefix": "पमािलनीम",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 202
+      }
+    ]
+  },
+  {
+    "prefix": "पु",
+    "children": [
+      "॑",
+      "प",
+      "ा",
+      "न",
+      "र"
+    ],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 214
+      }
+    ]
+  },
+  {
+    "prefix": "पु॑षान॒हम्",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 29
+      },
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 229
+      }
+    ]
+  },
+  {
+    "prefix": "पु॑रवः॒",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 46
+      }
+    ]
+  },
+  {
+    "prefix": "पु॑रवा॒े",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 307
+      }
+    ]
+  },
+  {
+    "prefix": "पु॑र॒वाेऽनु॑",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 107
+      }
+    ]
+  },
+  {
+    "prefix": "पुपा॒ै",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 276
+      }
+    ]
+  },
+  {
+    "prefix": "पुा॒",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 497
+      }
+    ]
+  },
+  {
+    "prefix": "पुन॒रत॒ं",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 47
+      }
+    ]
+  },
+  {
+    "prefix": "पुन॑गा॒",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 903
+      }
+    ]
+  },
+  {
+    "prefix": "पुरवा॒े",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 147
+      }
+    ]
+  },
+  {
+    "prefix": "पदशचचौीकामःसततंजपते",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 246
+      }
+    ]
+  },
+  {
+    "prefix": "पदलाय॑ता",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 352
+      }
+    ]
+  },
+  {
+    "prefix": "पऽु",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 269
+      }
+    ]
+  },
+  {
+    "prefix": "पौऽंधनंधांहािदगवरे",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 270
+      }
+    ]
+  },
+  {
+    "prefix": "पृ",
+    "children": [
+      "ण"
+    ],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 638
+      }
+    ]
+  },
+  {
+    "prefix": "पृणास",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 105
+      }
+    ]
+  },
+  {
+    "prefix": "पषृ",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 680
+      }
+    ]
+  },
+  {
+    "prefix": "पषू",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 862
+      }
+    ]
+  },
+  {
+    "prefix": "पवू",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 740
+      }
+    ]
+  },
+  {
+    "prefix": "पव॑मानं",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 520
+      }
+    ]
+  },
+  {
+    "prefix": "पनादिनाकृतंवांवषृ",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1009
+      }
+    ]
+  },
+  {
+    "prefix": "पनु",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1165
+      },
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1172
+      },
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1179
+      },
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1191
+      },
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1206
+      },
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1212
+      },
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1218
+      },
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1224
+      },
+      {
+        "doc_id": "khilas1.pdf",
+        "position": 1243
+      }
+    ]
+  },
+  {
+    "prefix": "प॒॒े",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 52
+      }
+    ]
+  },
+  {
+    "prefix": "प॒॒लां",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 190
+      }
+    ]
+  },
+  {
+    "prefix": "प॒व॑णा॒",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 54
+      }
+    ]
+  },
+  {
+    "prefix": "प॒नी॑मी॒ं",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 69
+      }
+    ]
+  },
+  {
+    "prefix": "प॒शू॒नां",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 142
+      }
+    ]
+  },
+  {
+    "prefix": "प॒शं",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 525
+      }
+    ]
+  },
+  {
+    "prefix": "प॒शभः",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 567
+      }
+    ]
+  },
+  {
+    "prefix": "प॒माल॑नीम्",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 164
+      }
+    ]
+  },
+  {
+    "prefix": "प॒ु",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 186
+      },
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 188
+      },
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 396
+      }
+    ]
+  },
+  {
+    "prefix": "प॒द॑शच॒",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 241
+      }
+    ]
+  },
+  {
+    "prefix": "प॒दमल॑क॒मा",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 865
+      }
+    ]
+  },
+  {
+    "prefix": "प॒ा॒न॒ने",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 249
+      }
+    ]
+  },
+  {
+    "prefix": "प॒ा॒ी॒",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 258
+      }
+    ]
+  },
+  {
+    "prefix": "प॒ाी॑",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 252
+      }
+    ]
+  },
+  {
+    "prefix": "प॒स॑वे",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 253
+      }
+    ]
+  },
+  {
+    "prefix": "प॒हते",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 350
+      }
+    ]
+  },
+  {
+    "prefix": "प॒पा॑यता॒ी",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 366
+      }
+    ]
+  },
+  {
+    "prefix": "प॒ृ",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 180
+      }
+    ]
+  },
+  {
+    "prefix": "प॒तरं॑",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 249
+      }
+    ]
+  },
+  {
+    "prefix": "प॒तनपा॑त॒मा",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 401
+      }
+    ]
+  },
+  {
+    "prefix": "प॒णयाे॒",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 861
+      }
+    ]
+  },
+  {
+    "prefix": "प॒णया॒े",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 884
+      }
+    ]
+  },
+  {
+    "prefix": "प॑",
+    "children": [
+      "े",
+      "प",
+      "म",
+      "य",
+      "ह",
+      "ा",
+      "ृ"
+    ],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 250
+      }
+    ]
+  },
+  {
+    "prefix": "प॑ेऽल॒ीम॑े",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 71
+      }
+    ]
+  },
+  {
+    "prefix": "प॑पा॒साम॑लां",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 112
+      }
+    ]
+  },
+  {
+    "prefix": "प॑पृध",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 635
+      }
+    ]
+  },
+  {
+    "prefix": "प॑पृयां",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 647
+      }
+    ]
+  },
+  {
+    "prefix": "प॑मा॒लनीम्",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 191
+      }
+    ]
+  },
+  {
+    "prefix": "प॑ये",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 348
+      }
+    ]
+  },
+  {
+    "prefix": "प॑ह॒ता",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 383
+      }
+    ]
+  },
+  {
+    "prefix": "प॑ा॒े",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 312
+      }
+    ]
+  },
+  {
+    "prefix": "प॑ृ",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 503
+      },
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 588
+      }
+    ]
+  },
+  {
+    "prefix": "पब॒",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 302
+      }
+    ]
+  },
+  {
+    "prefix": "पबत",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "s-sukta-accent.pdf",
+        "position": 304
+      }
+    ]
+  },
+  {
+    "prefix": "पत॑ती",
+    "children": [
+      "॒"
+    ],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 816
+      }
+    ]
+  },
+  {
+    "prefix": "पत॑ती॒",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 199
+      }
+    ]
+  },
+  {
+    "prefix": "पये॑",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 545
+      }
+    ]
+  },
+  {
+    "prefix": "पया॑ं",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 736
+      },
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 757
+      }
+    ]
+  },
+  {
+    "prefix": "पणयाे",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 748
+      }
+    ]
+  },
+  {
+    "prefix": "पणया॒े",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 832
+      },
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 928
+      },
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 936
+      }
+    ]
+  },
+  {
+    "prefix": "पणयः",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 802
+      }
+    ]
+  },
+  {
+    "prefix": "पथा॒",
+    "children": [],
+    "is_end_of_word": true,
+    "references": [
+      {
+        "doc_id": "samvAdasUkta.pdf",
+        "position": 842
+      }
+    ]
+  }
+]
